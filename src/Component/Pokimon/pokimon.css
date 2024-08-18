@@ -1,0 +1,19 @@
+.pokimon{
+/* flex-basis: 30%; */
+height: 250px;
+width: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.pokimon-image{
+    height: 150px;
+    margin-top: 1rem;
+    
+
+}
+.pokimon:hover{
+    background-color:beige;
+}
