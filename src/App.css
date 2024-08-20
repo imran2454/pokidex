@@ -1,0 +1,19 @@
+.outer-pokidex{
+    display: flex;
+    flex-direction: column;
+    width: 1250px;
+    align-items: center;
+   
+
+}
+#pokedesk-heading{
+    /* margin: 0 auto; */
+    margin-bottom: 20px;
+    letter-spacing: .40rem;
+   text-decoration: none;
+
+}
+a:visited{
+    color: black;
+  
+}

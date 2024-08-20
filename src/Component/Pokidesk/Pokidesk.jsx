@@ -5,7 +5,7 @@ import './pokedesk.css'
 function Pokidesk(){
     return (
         <div className="pokedesk-wraper">
-        <h1 id="pokedesk-heading">pokedesk</h1>
+        {/* <h1 id="pokedesk-heading">pokedesk</h1> */}
         <Search/>
         <PokimonList/>
         </div>
